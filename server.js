@@ -94,9 +94,9 @@ router
     console.log(ctx.request.method);
     ctx.response.body = emails;
   })
-  .get('/api/check-email', async (ctx, next) => {
+  /*.get('/api/check-email', async (ctx, next) => {
   
-  });
+  });*/
 
 app.use(router.routes()).use(router.allowedMethods());
 
