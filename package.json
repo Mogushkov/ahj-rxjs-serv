@@ -1,7 +1,7 @@
 {
   "name": "ahj-rxjs-serv",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "repository": "https://github.com/Mogushkov/ahj-rxjs-serv.git",
   "author": "Gapur Mogushkov <gapur@mail.ru>",
   "license": "MIT",
